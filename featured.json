@@ -1,26 +1,26 @@
 [
   {
-    "id": "dodopulse",
-    "headline": "FROM DODOAPPS",
-    "title": "Your Mac, at a glance.",
-    "subtitle": "Real-time CPU, memory, GPU, and network monitoring in your menu bar — with beautiful mini graphs."
-  },
-  {
-    "id": "textream",
-    "headline": "NEW APP",
-    "title": "Your script, always in sight.",
-    "subtitle": "Textream brings a Dynamic Island teleprompter to your Mac — highlighting words as you speak them."
-  },
-  {
     "id": "prompts-chat",
-    "headline": "151K+ STARS",
-    "title": "The world's largest prompt collection.",
-    "subtitle": "Share, discover, and collect AI prompts from the community. Free, open source, and self-hostable."
+    "headline": "COMMUNITY FAVORITE",
+    "title": "Every prompt the internet ever loved.",
+    "subtitle": "Over 150K stars and counting — Prompts.chat is the go-to open-source library for discovering and sharing AI prompts. Free, self-hostable, and built by the community."
   },
   {
-    "id": "dodoshot",
-    "headline": "FREE ALTERNATIVE",
-    "title": "Screenshots, reimagined.",
-    "subtitle": "A beautiful, free screenshot tool for macOS — capture, annotate, and manage. Inspired by CleanShot X."
+    "id": "mcptools",
+    "headline": "EDITOR'S PICK",
+    "title": "Command every AI tool from one CLI.",
+    "subtitle": "MCP Tools is the Swiss Army knife for Model Context Protocol servers — discover, call, and debug any MCP-compatible server directly from your terminal."
+  },
+  {
+    "id": "macabolic",
+    "headline": "HIDDEN GEM",
+    "title": "Every video, beautifully downloaded.",
+    "subtitle": "A gorgeous macOS wrapper for yt-dlp that grabs video and audio from YouTube and thousands of sites — with SponsorBlock, subtitles, and playlist support built right in."
+  },
+  {
+    "id": "ha-bluetooth-audio-manager",
+    "headline": "RISING STAR",
+    "title": "Bluetooth audio, finally tamed.",
+    "subtitle": "Turn your Home Assistant setup into a full Bluetooth audio hub — persistent pairing, auto-reconnect, and rock-solid A2DP support out of the box."
   }
 ]
